@@ -9,3 +9,4 @@ function sumAll(...args) {
 console.log( sumAll(1) );
 console.log( sumAll(1, 2) );
 console.log( sumAll(1, 2, 3) );
+console.log( sumAll(1, 2, 3) );
